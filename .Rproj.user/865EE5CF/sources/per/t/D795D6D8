@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534916407459.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D795D6D8",
+    "lastKnownWriteTime" : 7307218348631485295,
+    "last_content_update" : 1534916407459,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4D8CA9BC",
+        "caption" : "hoken_theo_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=hoken_theo_data&cache_key=4D8CA9BC",
+        "displayedObservations" : "67746",
+        "environment" : "",
+        "object" : "hoken_theo_data",
+        "preview" : "0",
+        "totalObservations" : "67746",
+        "variables" : "5"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

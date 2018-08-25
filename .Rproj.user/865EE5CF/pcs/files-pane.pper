@@ -1,0 +1,9 @@
+{
+    "path" : "~/SchoolWeight",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534823788782.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1358786188",
+    "id" : "252BEACC",
+    "lastKnownWriteTime" : 1534920491,
+    "last_content_update" : 1534920491981,
+    "path" : "~/SchoolWeight/SchoolWeight.R",
+    "project_path" : "SchoolWeight.R",
+    "properties" : {
+        "cursorPosition" : "72,18",
+        "scrollLine" : "52",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

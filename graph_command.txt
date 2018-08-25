@@ -1,0 +1,2 @@
+hist(x, breaks=seq(10,125,1), col="#FF00007F")
+hist(y, breaks=seq(10,125,1), col="#0000FF7F", add=T)
